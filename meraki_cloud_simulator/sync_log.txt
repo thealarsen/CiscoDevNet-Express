@@ -1,0 +1,15 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1287  100  1287    0     0   3893      0 --:--:-- --:--:-- --:--:--  3900
+Current SYNC_VERSION 1
+Pod up to date.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1287  100  1287    0     0   3783      0 --:--:-- --:--:-- --:--:--  3785
+Current SYNC_VERSION 1
+Pod up to date.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1287  100  1287    0     0   3516      0 --:--:-- --:--:-- --:--:--  3526
+Current SYNC_VERSION 1
+Pod up to date.
